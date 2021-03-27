@@ -34,14 +34,16 @@ I'm currently reading [Clean Architecture](clean-architecutre-book) (from Uncle 
 
 I'm switching to [Github Codespaces][github-codespaces] and using that new tool to improve/organize my dotfiles and workstation setup automation.
 
+<img alt="Shell Script" src="https://img.shields.io/badge/shell_script%20-%23121011.svg?&style=for-the-badge&logo=gnu-bash&logoColor=white"/>
+
 [comment]: <> (Link references)
 [comment]: <> (----------------------------------------------------------------------------------------)
 [profile-twitter]: https://twitter.com/_odelucca "Daniel De Lucca Twitter Profile"
 [profile-linkedin]: https://linkedin.com/in/danieldelucca "Daniel De Lucca LinkedIn Profile"
 [profile-telegram]: https://t.me/odelucca "Daniel De Lucca Telegram Profile"
-[badge-linkedin]: https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white "Badge for LinkedIn"
-[badge-twitter]: https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white "Badge for Twitter"
-[badge-telegram]: https://img.shields.io/badge/-Telegram-0088cc?style=flat-square&logo=Telegram&logoColor=white "Badge for Telegram"
+[badge-linkedin]: https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white "Badge for LinkedIn"
+[badge-twitter]: https://img.shields.io/badge/twitter%20-%230077B5.svg?&style=for-the-badge&logo=twitter&logoColor=white "Badge for Twitter"
+[badge-telegram]: https://img.shields.io/badge/telegram%20-%230077B5.svg?&style=for-the-badge&logo=telegram&logoColor=white "Badge for Telegram"
 [badge-visitors]: https://visitor-badge.glitch.me/badge?page_id=delucca.delucca "Badge with visitors count of this page"
 [github-stats]: https://github-readme-stats.vercel.app/api?username=delucca&theme=dark&show_icons=true "Github status addon"
 [quintoandar-github]: https://github.com/quintoandar "QuintoAndar Github page"
