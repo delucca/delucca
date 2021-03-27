@@ -2,9 +2,9 @@
 [![Linkedin Badge][badge-linkedin]][profile-linkedin]
 [![Twitter Badge][badge-twitter]][profile-twitter]
 [![Telegram Badge][badge-telegram]][profile-telegram]
-![Visitors Badge][badge-visitors]
 
 ![Github Stats][github-stats]
+![Visitors Badge][badge-visitors]
 
 ## 🖖 About me
 I'm a Software Engineer with a strong product background. During my career, I've built three startups, worked for some big players like [@quintoandar][quintoandar-github], and contributed to some open source projects like [@kubeless][kubeless-github].
