@@ -1,4 +1,10 @@
-### Hi there 👋
+### Hi there, I'm [Daniel De Lucca](https://twitter.com/_odelucca) 👋
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/danieldelucca)
+[![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/_odelucca)
+[![Telegram Badge](https://img.shields.io/badge/-Telegram-0088cc?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/odelucca)
+![visitors](https://visitor-badge.glitch.me/badge?page_id=delucca.delucca)
+
+![De Lucca's GitHub stats](https://github-readme-stats.vercel.app/api?username=delucca&theme=dark&show_icons=true)
 
 <!--
 **delucca/delucca** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
