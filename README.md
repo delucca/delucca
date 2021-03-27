@@ -6,17 +6,21 @@
 
 <img src="https://github-readme-stats.vercel.app/api?username=delucca&theme=dark&show_icons=true" />
 
-<!--
-**delucca/delucca** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🖖 About me
+I'm a Software Engineer with a strong product background. During my career, I've built three startups, worked for some big players like [@quintoandar](https://github.com/quintoandar), and contributed to some open source projects like [@kubeless](https://kubeless.com).
 
-Here are some ideas to get you started:
+I'm passionate about games, technology in general, automation, and dogs 🐶
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 👔 What am I working right now?
+
+I'm developing new features for [@bud](https://getbud.co). We're improving our customer experience by adding relevant features for new customers in our OKR state-of-the-art platform.
+
+<span display="inline">
+  <img alt="NodeJS" src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white"/>
+  <img alt="TypeScript" src="https://img.shields.io/badge/typescript%20-%23007ACC.svg?&style=for-the-badge&logo=typescript&logoColor=white"/>
+  <img alt="NestJS" src="https://img.shields.io/badge/nestjs%20-%23E0234E.svg?&style=for-the-badge&logo=nestjs&logoColor=white" />
+  <img alt="GraphQL" src="https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql"/>
+  <img alt="Next JS" src="https://img.shields.io/badge/next%20js%20-%23000000.svg?&style=for-the-badge&logo=next.js&logoColor=white"/>
+</span>
+
+## 🎓 What am I learning right now?
