@@ -2,7 +2,7 @@
 [![Linkedin Badge][badge-linkedin]][profile-linkedin]
 [![Twitter Badge][badge-twitter]][profile-twitter]
 [![Telegram Badge][badge-telegram]][profile-telegram]
-![Visitors Badge][badge-visiors]
+![Visitors Badge][badge-visitors]
 
 ![Github Stats][github-stats]
 
