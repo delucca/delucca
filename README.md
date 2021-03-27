@@ -24,3 +24,9 @@ I'm developing new features for [@bud](https://getbud.co). We're improving our c
 </span>
 
 ## 🎓 What am I learning right now?
+
+I'm currently reading [Clean Architecture](https://www.amazon.com.br/Clean-Architecture-Craftsmans-Software-Structure/dp/0134494164/ref=asc_df_0134494164/?tag=googleshopp00-20&linkCode=df0&hvadid=379726160779&hvpos=&hvnetw=g&hvrand=17456422881706565455&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9074138&hvtargid=pla-423658477418&psc=1) (from Uncle Bob), and I'm exploring new ways to improve the layered architecture of my currently active projects. It's a pretty big challenge since enhancing the architecture of legacy software is extremely hard.
+
+## 🧙‍ What is my current side quest?
+
+I'm switching to [Github Codespaces](https://github.com/features/codespaces) and using that new tool to improve/organize my dotfiles and workstation setup automation.
