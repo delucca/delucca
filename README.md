@@ -4,7 +4,7 @@
 [![Telegram Badge](https://img.shields.io/badge/-Telegram-0088cc?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/odelucca)
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=delucca.delucca)
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=delucca&theme=dark&show_icons=true" />
+<img src="https://github-readme-stats.vercel.app/api?username=delucca&theme=dark&show_icons=true" />
 
 <!--
 **delucca/delucca** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
