@@ -33,7 +33,7 @@ I'm currently reading [Clean Architecture](clean-architecutre-book) (from Uncle 
 
 ## 🧙‍ What is my current side quest?
 
-I'm switching to [Github Codespaces][github-codespaces] and using that new tool to improve/organize my dotfiles and workstation setup automation.
+I'm switching to [Github Codespaces][github-codespaces] and using that new tool to improve/organize my dotfiles and workstation setup automation. You can learn more about that side quest [in the project's page][github-project-workstation-automation]
 
 <img alt="Shell Script" src="https://img.shields.io/badge/shell_script%20-%23121011.svg?&style=for-the-badge&logo=gnu-bash&logoColor=white"/>
 
@@ -52,3 +52,4 @@ I'm switching to [Github Codespaces][github-codespaces] and using that new tool 
 [bud-website]: https://getbud.co "Bud website"
 [clean-architecture-book]: https://www.amazon.com.br/Clean-Architecture-Craftsmans-Software-Structure/dp/0134494164/ref=asc_df_0134494164/?tag=googleshopp00-20&linkCode=df0&hvadid=379726160779&hvpos=&hvnetw=g&hvrand=17456422881706565455&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9074138&hvtargid=pla-423658477418&psc=1 "Clean Architecture book URL"
 [github-codespaces]: https://github.com/features/codespaces "Github Codespaces URL"
+[github-project-workstation-automation]: https://github.com/users/delucca/projects/2 "My Workstation Automation project"
