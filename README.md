@@ -29,13 +29,11 @@ I'm developing new features for [@bud][bud-website]. We're improving our custome
 
 ## 🎓 What am I learning right now?
 
-I'm currently reading [Clean Architecture](clean-architecutre-book) (from Uncle Bob), and I'm exploring new ways to improve the layered architecture of my currently active projects. It's a pretty big challenge since enhancing the architecture of legacy software is extremely hard.
+I'm currently reading [An Introduction to Parallel Programming](book) (from Peter Pacheco), and I'm exploring new ways to understand how parallel programming could be implemented in my code.
 
 ## 🧙‍ What is my current side quest?
 
-I'm switching to [Github Codespaces][github-codespaces] and using that new tool to improve/organize my dotfiles and workstation setup automation. You can learn more about that side quest [in the project's page][github-project-workstation-automation]
-
-<img alt="Shell Script" src="https://img.shields.io/badge/shell_script%20-%23121011.svg?&style=for-the-badge&logo=gnu-bash&logoColor=white"/>
+I'm currrently researching about [Chia](chia), learning how it works in detail and contributing to some open-source projects regarding that new cryptocurrency.
 
 [comment]: <> (Link references)
 [comment]: <> (----------------------------------------------------------------------------------------)
@@ -50,6 +48,5 @@ I'm switching to [Github Codespaces][github-codespaces] and using that new tool 
 [quintoandar-github]: https://github.com/quintoandar "QuintoAndar Github page"
 [kubeless-github]: https://github.com/kubeless "Kubeless Github page"
 [bud-website]: https://getbud.co "Bud website"
-[clean-architecture-book]: https://www.amazon.com.br/Clean-Architecture-Craftsmans-Software-Structure/dp/0134494164/ref=asc_df_0134494164/?tag=googleshopp00-20&linkCode=df0&hvadid=379726160779&hvpos=&hvnetw=g&hvrand=17456422881706565455&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9074138&hvtargid=pla-423658477418&psc=1 "Clean Architecture book URL"
-[github-codespaces]: https://github.com/features/codespaces "Github Codespaces URL"
-[github-project-workstation-automation]: https://github.com/users/delucca/projects/2 "My Workstation Automation project"
+[book]: https://www.amazon.com/Introduction-Parallel-Programming-Peter-Pacheco/dp/0123742609 "Introduction to Parallel Programming book URL"
+[chia]: https://chia.net "Chia's website"
