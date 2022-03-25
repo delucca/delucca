@@ -8,7 +8,7 @@
 ![Visitors Badge][badge-visitors]
 
 ## 🖖 About me
-I'm a Software Engineer with a strong product background. During my career, I've built three startups, worked for some big players like [@quintoandar][quintoandar-github], and contributed to some open source projects like [@kubeless][kubeless-github].
+Hi! I'm a tech-savvy, open-source enthusiast, and software architect. Once an entrepreneur, I've worked for some of the largest Brazilian unicorns, like [@quintoandar](quintoandar-github) and [@neon](neon-github), creating applications that handled thousands of requests per minute. Also, I was a core contributor for [@kubeless](kubeless-github) and other open-source libraries.
 
 I'm passionate about games, technology in general, automation, and dogs 🐶
 
@@ -20,8 +20,8 @@ I'm developing new features for [@bud][bud-website]. We're improving our custome
   <img alt="NodeJS" src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white"/>
   <img alt="TypeScript" src="https://img.shields.io/badge/typescript%20-%23007ACC.svg?&style=for-the-badge&logo=typescript&logoColor=white"/>
   <img alt="NestJS" src="https://img.shields.io/badge/nestjs%20-%23E0234E.svg?&style=for-the-badge&logo=nestjs&logoColor=white" />
-  <img alt="GraphQL" src="https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql"/>
   <img alt="Next JS" src="https://img.shields.io/badge/next%20js%20-%23000000.svg?&style=for-the-badge&logo=next.js&logoColor=white"/>
+  <img alt="GraphQL" src="https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql"/>
   <img alt="React" src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
 </span>
 
@@ -29,11 +29,13 @@ I'm developing new features for [@bud][bud-website]. We're improving our custome
 
 ## 🎓 What am I learning right now?
 
-I'm currently reading [An Introduction to Parallel Programming](book) (from Peter Pacheco), and I'm exploring new ways to understand how parallel programming could be implemented in my code.
+I'm currently reading [The Architecture of Open Source Applications](book), and I'm exploring the most used design patterns on the largest open-source applications. It is an impressive book, that explains easily many common architecture decisions.
+
+Also, I'm learning to code using [Rust](rust-lang), doing it in some new sandbox projects that I'm creating.
 
 ## 🧙‍ What is my current side quest?
 
-I'm currrently researching about [Chia](chia), learning how it works in detail and contributing to some open-source projects regarding that new cryptocurrency.
+I'm currrently configuring a personal cloud server to host some tools that I commonly use, like my cloud server, photos server, and e-mail.
 
 [comment]: <> (Link references)
 [comment]: <> (----------------------------------------------------------------------------------------)
@@ -46,7 +48,8 @@ I'm currrently researching about [Chia](chia), learning how it works in detail a
 [badge-visitors]: https://visitor-badge.glitch.me/badge?page_id=delucca.delucca "Badge with visitors count of this page"
 [github-stats]: https://github-readme-stats.vercel.app/api?username=delucca&theme=dark&show_icons=true "Github status addon"
 [quintoandar-github]: https://github.com/quintoandar "QuintoAndar Github page"
+[neon-github]: https://github.com/neon "Neon Github page"
 [kubeless-github]: https://github.com/kubeless "Kubeless Github page"
 [bud-website]: https://getbud.co "Bud website"
-[book]: https://www.amazon.com/Introduction-Parallel-Programming-Peter-Pacheco/dp/0123742609 "Introduction to Parallel Programming book URL"
-[chia]: https://chia.net "Chia's website"
+[book]: https://www.aosabook.org/en/index.html9 "The Architecture of Open Source Applications book URL"
+[rust-lang]: https://www.rust-lang.org/ "Rust Programming Language"
