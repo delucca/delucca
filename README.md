@@ -39,7 +39,7 @@ I'm currrently configuring a personal cloud server to host some tools that I com
 
 [comment]: <> (Link references)
 [comment]: <> (----------------------------------------------------------------------------------------)
-[profile-twitter]: https://twitter.com/_odelucca "Daniel De Lucca Twitter Profile"
+[profile-twitter]: https://twitter.com/dndelucca "Daniel De Lucca Twitter Profile"
 [profile-linkedin]: https://linkedin.com/in/danieldelucca "Daniel De Lucca LinkedIn Profile"
 [profile-telegram]: https://t.me/odelucca "Daniel De Lucca Telegram Profile"
 [badge-linkedin]: https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white "Badge for LinkedIn"
