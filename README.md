@@ -8,18 +8,18 @@
 ![Visitors Badge][badge-visitors]
 
 ## 🖖 About me
-Hi! I'm a tech-savvy, open-source enthusiast, and software architect. Once an entrepreneur, I've worked for some of the largest Brazilian unicorns, like [@quintoandar](quintoandar-github) and [@neon](neon-github), creating applications that handled thousands of requests per minute. Also, I was a core contributor for [@kubeless](kubeless-github) and other open-source libraries.
+Hi! I'm a tech-savvy open-source enthusiast software engineer. Once an entrepreneur, I've worked for some of the largest Brazilian unicorns, like [@quintoandar](quintoandar-github) and [@neon](neon-github), creating applications that handled thousands of requests per minute. Also, I am a [@nestjs](nestjs-github) contributor, as well as a contributor for [Chia-Network](chia-github), [@kubeless](kubeless-github) and other open-source projects.
 
-I'm passionate about games, technology in general, automation, and dogs 🐶
+I'm currently working as a software architect for [@trilonio](trilon-github), improving the existing system architecture for a Silicon Valley startup called [@plathq](plato-github)🚀
 
 ## 👔 What am I working right now?
 
-I'm developing new features for [@bud][bud-website]. We're improving our customer experience by adding relevant features for new customers in our OKR state-of-the-art platform.
+I'm migrating a legacy Java system to a brand-new codebase using [nestjs](nestjs-github) with Typescript. Alongside with the migration we're mapping their domain and creating a new architecture for the application as a whole.
 
 <span display="inline">
-  <img alt="NodeJS" src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white"/>
-  <img alt="TypeScript" src="https://img.shields.io/badge/typescript%20-%23007ACC.svg?&style=for-the-badge&logo=typescript&logoColor=white"/>
   <img alt="NestJS" src="https://img.shields.io/badge/nestjs%20-%23E0234E.svg?&style=for-the-badge&logo=nestjs&logoColor=white" />
+  <img alt="TypeScript" src="https://img.shields.io/badge/typescript%20-%23007ACC.svg?&style=for-the-badge&logo=typescript&logoColor=white"/>
+  <img alt="NodeJS" src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white"/>
   <img alt="Next JS" src="https://img.shields.io/badge/next%20js%20-%23000000.svg?&style=for-the-badge&logo=next.js&logoColor=white"/>
   <img alt="GraphQL" src="https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql"/>
   <img alt="React" src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
@@ -35,7 +35,7 @@ Also, I'm learning to code using [Rust](rust-lang), doing it in some new sandbox
 
 ## 🧙‍ What is my current side quest?
 
-I'm currrently configuring a personal cloud server to host some tools that I commonly use, like my cloud server, photos server, and e-mail.
+I'm currently creating a serverless tool for training machine learning on the cloud with a reduced cost for my MSc.
 
 [comment]: <> (Link references)
 [comment]: <> (----------------------------------------------------------------------------------------)
@@ -53,3 +53,7 @@ I'm currrently configuring a personal cloud server to host some tools that I com
 [bud-website]: https://getbud.co "Bud website"
 [book]: https://www.aosabook.org/en/index.html9 "The Architecture of Open Source Applications book URL"
 [rust-lang]: https://www.rust-lang.org/ "Rust Programming Language"
+[nestjs-github]: https://github.com/nestjs/
+[chia-github]: https://github.com/Chia-Network
+[trilon-github]: https://github.com/trilonio
+[plato-github]: https://github.com/platohq
