@@ -49,7 +49,7 @@ I'm currently creating a serverless tool for training machine learning on the cl
 [github-stats]: https://github-readme-stats.vercel.app/api?username=delucca&theme=dark&show_icons=true "Github status addon"
 [quintoandar-github]: https://github.com/quintoandar "QuintoAndar Github page"
 [neon-github]: https://github.com/neon "Neon Github page"
-[kubeless-github]: https://github.com/kubeless "Kubeless Github page"
+[kubeless-github]: https://github.com/vmware-archive/kubeless "Kubeless Github page"
 [bud-website]: https://getbud.co "Bud website"
 [book]: https://www.aosabook.org/en/index.html9 "The Architecture of Open Source Applications book URL"
 [rust-lang]: https://www.rust-lang.org/ "Rust Programming Language"
