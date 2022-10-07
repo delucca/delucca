@@ -10,11 +10,9 @@
 ## 🖖 About me
 Hi! I'm a tech-savvy open-source enthusiast software engineer. Once an entrepreneur, I've worked for some of the largest Brazilian unicorns, like [@quintoandar](quintoandar-github) and [@neon](neon-github), creating applications that handled thousands of requests per minute. Also, I am a [@nestjs](nestjs-github) contributor, as well as a contributor for [Chia-Network](chia-github), [@kubeless](kubeless-github) and other open-source projects.
 
-I'm currently working as a software architect for [@trilonio](trilon-github), both improving the [NestJS](nest-js) applications of [@clickup](clickup-website) as well as implementing multi-tenant systems for [Motion Industries](motion-website).
-
 ## 👔 What am I working right now?
 
-I'm migrating a legacy Java system to a brand-new codebase using [nestjs](nestjs-github) with Typescript. Alongside with the migration we're mapping their domain and creating a new architecture for the application as a whole.
+I'm currently working as a software architect for [@trilonio](trilon-github), both improving the [NestJS](nest-js) applications of [@clickup](clickup-website) as well as implementing multi-tenant systems for [Motion Industries](motion-website).
 
 <span display="inline">
   <img alt="NestJS" src="https://img.shields.io/badge/nestjs%20-%23E0234E.svg?&style=for-the-badge&logo=nestjs&logoColor=white" />
@@ -56,7 +54,6 @@ I'm currently researching about runtime and IO prediction for seismic algorithms
 [nestjs-github]: https://github.com/nestjs/
 [chia-github]: https://github.com/Chia-Network
 [trilon-github]: https://github.com/trilonio
-[nestjs-github]: https://github.com/nestjs/nest
 [clickup-website]: https://clickup.com
 [motion-website]: https://www.motionindustries.com
 [petrobras-website]: https://petrobras.com.br/en/
