@@ -10,7 +10,7 @@
 ## 🖖 About me
 Hi! I'm a tech-savvy open-source enthusiast software engineer. Once an entrepreneur, I've worked for some of the largest Brazilian unicorns, like [@quintoandar](quintoandar-github) and [@neon](neon-github), creating applications that handled thousands of requests per minute. Also, I am a [@nestjs](nestjs-github) contributor, as well as a contributor for [Chia-Network](chia-github), [@kubeless](kubeless-github) and other open-source projects.
 
-I'm currently working as a software architect for [@trilonio](trilon-github), improving the existing system architecture for a Silicon Valley startup called [@plathq](plato-github)🚀
+I'm currently working as a software architect for [@trilonio](trilon-github), both improving the [NestJS](nest-js) applications of [@clickup](clickup-website) as well as implementing multi-tenant systems for [Motion Industries](motion-website).
 
 ## 👔 What am I working right now?
 
@@ -56,4 +56,6 @@ I'm currently creating a serverless tool for training machine learning on the cl
 [nestjs-github]: https://github.com/nestjs/
 [chia-github]: https://github.com/Chia-Network
 [trilon-github]: https://github.com/trilonio
-[plato-github]: https://github.com/platohq
+[nestjs-github]: https://github.com/nestjs/nest
+[clickup-website]: https://clickup.com
+[motion-website]: https://www.motionindustries.com
