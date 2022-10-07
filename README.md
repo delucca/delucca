@@ -35,7 +35,7 @@ Also, I'm learning to code using [Rust](rust-lang), doing it in some new sandbox
 
 ## 🧙‍ What is my current side quest?
 
-I'm currently creating a serverless tool for training machine learning on the cloud with a reduced cost for my MSc.
+I'm currently researching about runtime and IO prediction for seismic algorithms at [Petrobras](petrobras-website).
 
 [comment]: <> (Link references)
 [comment]: <> (----------------------------------------------------------------------------------------)
@@ -59,3 +59,4 @@ I'm currently creating a serverless tool for training machine learning on the cl
 [nestjs-github]: https://github.com/nestjs/nest
 [clickup-website]: https://clickup.com
 [motion-website]: https://www.motionindustries.com
+[petrobras-website]: https://petrobras.com.br/en/
