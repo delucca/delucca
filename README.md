@@ -12,7 +12,7 @@ Hi! I'm a tech-savvy open-source enthusiast software engineer. Once an entrepren
 
 ## 👔 What am I working right now?
 
-I'm currently working as a software architect for [@trilonio](trilon-github), both improving the [NestJS](nest-js) applications of [@clickup](clickup-website) as well as implementing multi-tenant systems for [Motion Industries](motion-website).
+I'm currently working as a software architect for [@trilonio](trilon-github) improving the [@nestjs](nest-js) applications of [@motion-it](motion-website).
 
 <span display="inline">
   <img alt="NestJS" src="https://img.shields.io/badge/nestjs%20-%23E0234E.svg?&style=for-the-badge&logo=nestjs&logoColor=white" />
