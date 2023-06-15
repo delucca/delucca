@@ -3,10 +3,6 @@
 [![Twitter Badge][badge-twitter]][profile-twitter]
 [![Telegram Badge][badge-telegram]][profile-telegram]
 
-![Github Stats][github-stats]
-
-![Visitors Badge][badge-visitors]
-
 ## 🖖 About me
 Hi! I'm a tech-savvy open-source enthusiast software engineer. Once an entrepreneur, I've worked for some of the largest Brazilian unicorns, like [@quintoandar](quintoandar-github) and [@neon](neon-github), creating applications that handled thousands of requests per minute. Also, I am a [@nestjs](nestjs-github) contributor, as well as a contributor for [Chia-Network](chia-github), [@kubeless](kubeless-github) and other open-source projects.
 
